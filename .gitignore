@@ -1,0 +1,15 @@
+# Compiled files
+*.exe
+*.class
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs and temp
+*.log
+*.ser
+
+# OS files
+Thumbs.db
+.DS_Store
